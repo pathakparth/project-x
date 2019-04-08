@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "html.format.endWithNewline": true,
+    "html.format.wrapLineLength": 140,
+    "html.format.wrapAttributes": "force-aligned"
+}
